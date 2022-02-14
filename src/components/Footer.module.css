@@ -1,0 +1,18 @@
+.footer {
+    background-color: #010c3b;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 15rem;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 6rem 1rem;
+    font-size: 1.6rem;
+}
