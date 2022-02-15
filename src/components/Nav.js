@@ -15,13 +15,13 @@ const Nav = () => {
         <li>
           <Link to="/">Home</Link>
         </li>
-        <li>
+        <li className={classes['nav--extra']}>
           <Link to="/">Money Saving</Link>
         </li>
-        <li>
+        <li className={classes['nav--extra']}>
           <Link to="/">Travel</Link>
         </li>
-        <li>
+        <li className={classes['nav--extra']}>
           <Link to="/">Family and Care</Link>
         </li>
         <li>

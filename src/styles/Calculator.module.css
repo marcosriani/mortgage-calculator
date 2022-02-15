@@ -38,3 +38,12 @@
     background-color: rgba(0, 115, 255, 0.708);
     color: rgb(255, 255, 255);
 }
+
+@media only screen and (max-width: 750px) {
+    .calculator {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 5rem;
+    }
+
+}

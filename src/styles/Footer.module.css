@@ -3,16 +3,24 @@
     position: relative;
     left: 0;
     bottom: 0;
-    height: 15rem;
+    min-height: 15rem;
     color: white;
     text-align: center;
     font-size: 1rem;
+    padding-top: 8rem;
 }
 
 .footer a {
     text-decoration: none;
     color: white;
-    display: inline-block;
     padding: 6rem 1rem;
     font-size: 1.6rem;
+}
+
+@media only screen and (max-width: 750px) {
+    .footer a {
+        display: inline-block;
+        padding: 2rem 1rem;
+    }
+
 }
