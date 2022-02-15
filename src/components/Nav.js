@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import classes from './Nav.module.css';
+import classes from '../styles/Nav.module.css';
 
 const Nav = () => {
   return (

@@ -2,11 +2,11 @@
     font-size: 1.6rem;
     padding: 0 10%;
     max-width: 95rem;
-    min-height: calc(100vh - 41rem);
+    margin: 0 auto;
+    min-height: calc(100vh - 31rem);
     display: flex;
     flex-direction: column;
-    padding-top: 20rem;
-    align-items: center;
+    padding-top: 10rem;
 }
 
 .mortgage__title,

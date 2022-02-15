@@ -1,9 +1,9 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from './components/Home';
+import Home from './pages/Home';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
-import BasicMortgage from './components/BasicMortgage';
+import BasicMortgage from './pages/BasicMortgage';
 
 function App() {
   return (
