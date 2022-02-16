@@ -6,8 +6,8 @@ To use the App, starting on the home page, scroll to the button of the page and 
 
 ### The application is currently live on the following link: https://sad-bose-80b51c.netlify.app/basic-mortgage
 
-![Getting Started](./Screenshot 2022-02-16 at 15.09.37.png)
-![Getting Started](./Screenshot 2022-02-16 at 15.09.44.png)
+![Getting Started](https://github.com/marcosriani/mortgage-calculator/blob/main/Screenshot%202022-02-16%20at%2015.09.37.png)
+![Getting Started](https://github.com/marcosriani/mortgage-calculator/blob/main/Screenshot%202022-02-16%20at%2015.09.44.png)
 
 This project was bootstrapped with Create React App
 
