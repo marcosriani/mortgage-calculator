@@ -59,7 +59,7 @@ const Home = () => {
           To get started all you need is the price of your property, or the
           amount left on your mortgage.
         </p>
-        <Link to="/basic-mortgage">
+        <Link to="/basic-mortgage" className={classes.main__link}>
           <button className={classes.main__button}>
             Start mortgage calculator
           </button>

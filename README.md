@@ -4,10 +4,10 @@ This is a Mortgage calculator built with React JS, the idea was to create a proj
 
 To use the App, starting on the home page, scroll to the button of the page and click Start mortgage calculator. On the calculator page please enter numbers larger than 0 into Price of the property, deposit, length of term in years, and interest rate. After adding the values, please click calculate to see the results. In case you want to do another calculator, please click clear and the form will be read for the next role.
 
-The application is currently live on the following link: https://sad-bose-80b51c.netlify.app/basic-mortgage
+### The application is currently live on the following link: https://sad-bose-80b51c.netlify.app/basic-mortgage
 
-![Getting Started](./src/assets/Screenshot 2022-02-16 at 15.09.37.png)
-![Getting Started](./src/assets/Screenshot 2022-02-16 at 15.09.44.png)
+![Getting Started](./Screenshot 2022-02-16 at 15.09.37.png)
+![Getting Started](./Screenshot 2022-02-16 at 15.09.44.png)
 
 This project was bootstrapped with Create React App
 

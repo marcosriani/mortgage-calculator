@@ -130,4 +130,10 @@
     .main__more>div {
         padding: 0;
     }
+
+    .main__link {
+        display: block;
+        text-align: center;
+    }
+
 }
