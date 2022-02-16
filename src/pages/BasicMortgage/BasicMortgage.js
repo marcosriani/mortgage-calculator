@@ -1,7 +1,7 @@
 import React from 'react';
 
-import classes from '../styles/BasicMortgage.module.css';
-import Calculator from '../components/Calculator';
+import classes from './BasicMortgage.module.css';
+import Calculator from '../../components/Calculator/Calculator';
 
 const Home = () => {
   return (

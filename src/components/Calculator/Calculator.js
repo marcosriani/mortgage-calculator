@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
-import MortgageCalculateFormula from './MortgageCalculatFormula';
-import classes from '../styles/Calculator.module.css';
+import MortgageCalculateFormula from '../MortgageCalculatFormula/MortgageCalculatFormula';
+import classes from './Calculator.module.css';
 
 const Calculator = () => {
   const [inactiveButton, setInactiveButton] = useState(true);
